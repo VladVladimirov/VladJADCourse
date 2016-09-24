@@ -1,8 +1,10 @@
-package com.course.vlad.jadcourse;
+package com.course.vlad.jadcourse.ui;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
+
+import com.course.vlad.jadcourse.R;
 
 /**
  * Created by Vlad on 9/24/2016.
